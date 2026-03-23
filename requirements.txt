@@ -1,3 +1,8 @@
 matplotlib
 numpy
 pandas
+ipykernel
+nbformat>=4.2.0
+pyarrow
+requests
+web3
